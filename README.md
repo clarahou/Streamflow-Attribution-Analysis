@@ -1,6 +1,8 @@
 # Streamflow-Attribution-Analysis
 This repository contains MATLAB scripts for streamflow attribution analysis based on the Budyko framework and LASSO regression. The code is designed to calculate key parameters, perform multivariate linear regression, and evaluate streamflow elasticity to environmental variables. These analyses focus on understanding the impacts of precipitation, potential evapotranspiration, snowfall, vegetation cover, and precipitation intensity on streamflow across catchments.
 
+Author: Ying Hou
+
 Included Scripts
 
 Budyko_11year_moving.m
@@ -50,6 +52,9 @@ Key Applications
 Catchment Hydrology: Understand how environmental factors drive hydrological partitioning in cold regions.
 Sensitivity Analysis: Quantify the relative importance of precipitation intensity, snowfall, vegetation cover, and climate variables on streamflow.
 Impact Assessment: Evaluate the impacts of climate change on water resources in snow-dominated catchments.
+
+Citation
+Hou, Y. (2025). Streamflow-Attribution-Analysis [Dataset]. Github. https://github.com/clarahou/Streamflow-Attribution-Analysis
 
 References:
 If the corresponding article is published, the authors will add appropriate references in the published version of the paper.
