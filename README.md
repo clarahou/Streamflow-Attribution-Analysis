@@ -53,7 +53,7 @@ Catchment Hydrology: Understand how environmental factors drive hydrological par
 Sensitivity Analysis: Quantify the relative importance of precipitation intensity, snowfall, vegetation cover, and climate variables on streamflow.
 Impact Assessment: Evaluate the impacts of climate change on water resources in snow-dominated catchments.
 
-Citation
+Citation:
 Hou, Y. (2025). Streamflow-Attribution-Analysis [Dataset]. Github. https://github.com/clarahou/Streamflow-Attribution-Analysis
 
 References:
