@@ -57,4 +57,4 @@ Citation:
 Hou, Y. (2025). Streamflow-Attribution-Analysis [Dataset]. Github. https://github.com/clarahou/Streamflow-Attribution-Analysis
 
 References:
-If the corresponding article is published, the authors will add appropriate references in the published version of the paper.
+The authors will add appropriate references later.
